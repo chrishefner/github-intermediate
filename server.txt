@@ -1,3 +1,5 @@
 # Server
 - this file was createdfrom the web side
 - It demonstrates the changes from the pull command to our laptops
+
+EOF
